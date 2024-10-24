@@ -1,0 +1,7 @@
+Capturing and analyzing network packets using Wireshark (Fundamentals) :
+
+ - Identification the live network - open wire shark select the ethernet 
+
+- Capture Packets - open the ethernet tab and open browser search any thing open wire shark and observe the packets 
+
+ -Analyze the captured packets - open any packets and the data will be shownwed

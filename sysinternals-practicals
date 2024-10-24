@@ -1,0 +1,10 @@
+for sysinternal practical use tools :- 
+1. procmon64 / procexp64 ( for viewing the processes ) , 
+2. Rammap ( for monitoring the ram ), 
+3.  Tcpview ( for viewing the tcp/udp packets ) , 
+4. Diskmon ( to view Harddisk releated things ) , 
+5. VMmap ( for Viewing The virtual Memory ), 
+6. Cacheset ( for viewing The cache memory usage )
+
+
+for suite download ( https://download.sysinternals.com/files/SysinternalsSuite.zip )

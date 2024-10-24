@@ -1,0 +1,23 @@
+1st method :- 
+
+Email Forensics 
+- Mail Service Providers - gmail/yahoo/outlook
+
+ - Email protocols - smtp/pop3/imap
+
+- Recovering emails - open the trash bin in email then restore or check the emails in trash bin of gmail
+
+- Analyzing email header - open any email then click on the three dots on right hand side click > show original then observe the headers at starting of the request and write it.
+
+
+2nd method :- 
+
+2nd method Email Forensics - open acess ftk , forences toolkit , click email messages > click any email > export the file then open it and follow the same date as following
+
+- Mail Service Providers - gmail/yahoo/outlook
+
+ - Email protocols - smtp/pop3/imap
+
+- Recovering emails - open the trash bin in email then restore or check the emails in trash bin of gmail
+
+- Analyzing email header - open any email then click on the three dots on right hand side click > show original then observe the headers at starting of the request and write it.

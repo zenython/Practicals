@@ -1,0 +1,9 @@
+Web Browser Forensics :
+
+ -Web Browser working - open the firefox browser check if html, css, js is working properly
+
+ -Forensics activities on browser - check bookmarks, passwords , password-autofill, downloads-history, browser-addons(extensions)
+
+ -Cache / Cookies analysis - open the dev tools by clicking f12 on key board > go to application > check the cookies and cache of the websites
+
+ -Last Internet activity - press ctrl+h or open the history tab and check the history

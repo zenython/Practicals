@@ -1,0 +1,7 @@
+Creating a Forensic Image using FTK Imager/Encase Imager : - open the ftk imager 
+
+- Creating Forensic Image - File > Create Disk Image > select physical drive > create raw > crated.
+
+ - Check Integrity of Data > when the process is done the the hashesh will be shown write it to check the integrity of data 
+
+ - Analyze Forensic Image - after creating the ftk image open the file > add evidence item > select the image created > analyze

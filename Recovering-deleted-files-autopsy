@@ -1,0 +1,7 @@
+Recovering and Inspecting deleted files:
+
+ - Check for Deleted Files - first create an image using ftk imager of physical drive then > open the autopsy software > then select the new case > enter details > now add disk image we created > next check mark all > finish .
+
+ - Recover the Deleted Files - then there will be a section of deleted files click it > extract files > now generate report > click in excel > browse your location > save it and open it .
+
+ -Analyzing and Inspecting the recovered files- topen the excel file and then check the hashesh and recoverd data etc.
